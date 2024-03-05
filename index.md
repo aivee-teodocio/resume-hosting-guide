@@ -1,11 +1,11 @@
 # Aivee Teodocio
-### [aiveeteodocio@gmail.com](mailto:aiveeteodocio@gmail.com?subject=Test) | [LinkedIn](linkedin.com/in/aivee-teodocio)
+### [Email](mailto:aiveeteodocio@gmail.com?subject=Test) | [LinkedIn](https://www.linkedin.com/in/aivee-teodocio/)
 
 ## EDUCATION
 ### Bachelor of Computer Science Major (Co-op)
-### University of Manitoba
-### Expected Graduation: June 2024
-### GPA: 4.11/4.50
+University of Manitoba
+Expected Graduation: June 2024
+GPA: 4.11/4.50
 
 ## INDUSTRY EXPERIENCE
 ### Application Developer (Co-op) &emsp; &emsp; &emsp; &emsp; May 2023 - Sept 2023
