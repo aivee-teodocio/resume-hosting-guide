@@ -1,12 +1,14 @@
 # Aivee Teodocio
-### (204) 914-4632 | aiveeteodocio@gmail.com | linkedin.com/in/aivee-teodocio
+### [aiveeteodocio@gmail.com](mailto:aiveeteodocio@gmail.com?subject=Test) | [LinkedIn](linkedin.com/in/aivee-teodocio)
 
 ## EDUCATION
-### Bachelor of Computer Science Major (Co-op), University of Manitoba
-### Expected Graduation: June 2024 | GPA: 4.11/4.50
+### Bachelor of Computer Science Major (Co-op)
+### University of Manitoba
+### Expected Graduation: June 2024
+### GPA: 4.11/4.50
 
 ## INDUSTRY EXPERIENCE
-### Application Developer (Co-op) &emsp; &emsp; &emsp; &emsp; &emsp; May 2023 - Sept 2023
+### Application Developer (Co-op) &emsp; &emsp; &emsp; &emsp; May 2023 - Sept 2023
 #### Pollard Banknote
 - Supported the production launch of a player engagement platform by building responsive frontend web pages using React.js and developing features for a mobile app using React Native.
 - Wrote SQL queries to support pagination in an application’s user history section.
@@ -33,15 +35,15 @@
 **Frameworks, Libraries, and Software**: Vue.js, React.js, React Native, Vuex, Redux, JUnit, Jest, Spring Boot, Bootstrap, Postman, Swagger, Git, Bitbucket, GitLab, Docker, VS Code, Android Studio, IntelliJ IDEA, Jira
 
 ## ADDITIONAL EXPERIENCE
-### Computer Science Grader/Marker, COMP 3350 – Software Engineering 1 &emsp; Jan 2024 - Present
-#### University of Manitoba
+### Computer Science Grader, Software Engineering 1 &emsp; Jan 2024 - Present
+#### Department of Computer Science, University of Manitoba
 - Provided students feedback on their group project, and graded tests and assignments.
 - Analyzed written unit tests using JUnit and Android Studio.
-### Research Assistant, Bioinformatics Lab &emsp; &emsp; &emsp; &emsp; &emsp; May 2020 - Aug 2020
-#### University of Manitoba
+### Research Assistant, Bioinformatics Lab &emsp; &emsp; May 2020 - Aug 2020
+#### Bioinformatics Lab, University of Manitoba
 - Created detailed graphs to illustrate new techniques to determine the level of similarity between different phylogenetic networks. This work was included in a research paper accepted into AlCoB 2021 (doi.org/10.1007/978-3-030-74432-8_5).
 
 ## VOLUNTEERING
-### WICS Peer Mentor, Women in Computer Science  &emsp; &emsp; &emsp; &emsp; &emsp; Oct 2023 - Present
-#### University of Manitoba
+### WICS Peer Mentor &emsp; &emsp; &emsp; &emsp; &emsp; Oct 2023 - Present
+#### Women in Computer Science Club, University of Manitoba
 - Provided support and advice as a friendly mentor to a first/second year student in the computer science program on all things related to computer science courses, the co-op program, and more.
