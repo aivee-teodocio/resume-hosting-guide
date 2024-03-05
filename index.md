@@ -35,15 +35,16 @@
 **Frameworks, Libraries, and Software**: Vue.js, React.js, React Native, Vuex, Redux, JUnit, Jest, Spring Boot, Bootstrap, Postman, Swagger, Git, Bitbucket, GitLab, Docker, VS Code, Android Studio, IntelliJ IDEA, Jira
 
 ## ADDITIONAL EXPERIENCE
-### Computer Science Grader, SoftEng 1 &emsp; Jan 2024 - Present
+### Computer Science Grader, SoftEng 1 &emsp; &emsp; Jan 2024 - Present
 #### Department of Computer Science, University of Manitoba
 - Provided students feedback on their group project, and graded tests and assignments.
 - Analyzed written unit tests using JUnit and Android Studio.
-### Research Assistant &emsp; &emsp; &emsp; &emsp; May 2020 - Aug 2020
+
+### Research Assistant &emsp; &emsp; &emsp; &emsp; &emsp; May 2020 - Aug 2020
 #### Bioinformatics Lab, University of Manitoba
 - Created detailed graphs to illustrate new techniques to determine the level of similarity between different phylogenetic networks. This work was included in a research paper accepted into AlCoB 2021 (doi.org/10.1007/978-3-030-74432-8_5).
 
 ## VOLUNTEERING
-### WICS Peer Mentor &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Oct 2023 - Present
+### WICS Peer Mentor &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Oct 2023 - Present
 #### Women in Computer Science Club, University of Manitoba
 - Provided support and advice as a friendly mentor to a first/second year student in the computer science program on all things related to computer science courses, the co-op program, and more.
