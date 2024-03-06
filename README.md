@@ -8,6 +8,7 @@ Andrew Etter describes the principles of writing good software documentation in 
 - **Use a lightweight static website generator like Jekyll to format documentation.** Lightweight static websites are secure and easy to maintain as they don't need a server and database to function. Additionally, tools like Jekyll also allow us to quickly change the appearance of our documentation by applying different themes.
 - **Write documentation in a markup language like Markdown.** As we are writing and editing documentation, markup languages allow us to control the layout and styling of our text. It gives us the ability to create lists, add headers, bold or italicize text, and more, by following a simple set of syntax rules.
 - **Use a distributed version control tool like GitHub.** Platforms like GitHub make it easy for people to collaborate and write documentation together. Authors can keep their shared work together in repositories, allowing them to contribute to others' writing, keep track of new changes, and see what others are working on.
+
 Together, we will apply these principles by hosting our resume written in Markdown in a lightweight static website we create using Jekyll and GitHub Pages. 
 
 ## Prerequisites
@@ -17,24 +18,26 @@ Together, we will apply these principles by hosting our resume written in Markdo
 ## Instructions
 ### Create a GitHub repository
 1. Log into your GitHub account.
-2. Click on the green button that says "New" on the left hand side of your GitHub homepage. [1]
+2. Click on the green button that says *New* on the left hand side of your GitHub homepage. [1]
 3. Enter a repository name with the format `[your-github-username].github.io`. (Ex: *mr-krabs*.github.io)
 4. Enter a short description that describes what the repository is for. This could be as simple as *My resume.*
-5. Keep the visibility of the repository as *public*.
+5. Keep the visibility of the repository *public*.
 6. Tick off the box that says *Add a README file*. This will create a Markdown file called *README* and create the repository's `main` branch. By default, this *README* file will contain the name of the repository and the description you entered.
-7. Select the "MIT License" option in the *Choose a license* dropdown.
+7. Select the *MIT License* option in the *Choose a license* dropdown.
 8. Click the green *Create repository* button at the bottom of the page.
-You have now created a repository where we can upload and store our files!
+
+You have now created a repository where you can upload and store your files!
 
 ### Set up GitHub Pages
 1. Inside the repository you just created, click on the *Settings* tab in the top navigation bar. [2]
-2. Click on *Pages* on the left-hand side under the "Code and automation" section. [3]
+2. Click on *Pages* on the left-hand side under the *Code and automation* section. [3]
 3. Select the `main` option in the first dropdown under the *Branch* section.
 4. Keep the second dropdown under the *Branch* section to `/(root)`.
-5. Click on the `Save` button in the *Branch* section.
+5. Click on the *Save* button in the *Branch* section.
 6. Open a new tab in your browser.
 7. Enter `https://[your-github-username].github.io` in the address bar of the new tab.
 8. Check that you can see the content of your *README* file. You should see your repository's name and description.
+
 You have successfully created a simple static website!👏
 
 ## More Resources
