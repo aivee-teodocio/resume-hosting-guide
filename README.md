@@ -21,10 +21,10 @@ Together, we will apply these principles by hosting our resume written in Markdo
 3. Enter a repository name with the format `[your-github-username].github.io`. (Ex: *mr-krabs*.github.io)
 4. Enter a short description that describes what the repository is for. This could be as simple as *My resume.*
 5. Keep the visibility of the repository as *public*.
-6. Tick off the *Add a README file* box. This will create a Markdown file called *README* in the repository and initialize our `main` branch. By default, this *README* file will contain the name of the repository and the description your entered.
+6. Tick off the box that says *Add a README file*. This will create a Markdown file called *README* and create the repository's `main` branch. By default, this *README* file will contain the name of the repository and the description you entered.
 7. Select the "MIT License" option in the *Choose a license* dropdown.
 8. Click the green *Create repository* button at the bottom of the page.
-We have now created a repository where we can upload and store our files!
+You have now created a repository where we can upload and store our files!
 
 ### Set up GitHub Pages
 1. Inside the repository you just created, click on the *Settings* tab in the top navigation bar. [2]
@@ -32,10 +32,10 @@ We have now created a repository where we can upload and store our files!
 3. Select the `main` option in the first dropdown under the *Branch* section.
 4. Keep the second dropdown under the *Branch* section to `/(root)`.
 5. Click on the `Save` button in the *Branch* section.
-6. To test this works, open a new tab in your browser.
+6. Open a new tab in your browser.
 7. Enter `https://[your-github-username].github.io` in the address bar of the new tab.
 8. Check that you can see the content of your *README* file. You should see your repository's name and description.
-We have successfully created a static website!👏
+You have successfully created a simple static website!👏
 
 ## More Resources
 - A quick reference sheet on Markdown syntax rules created by Adam Pritchard can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
