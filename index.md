@@ -40,7 +40,7 @@
 - Provided students feedback on their group project, and graded tests and assignments.
 - Analyzed written unit tests using JUnit and Android Studio.
 
-### Research Assistant &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2020 - Aug 2020
+### Research Assistant &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2020 - Aug 2020
 #### Bioinformatics Lab, University of Manitoba
 - Created detailed graphs to illustrate new techniques to determine the level of similarity between different phylogenetic networks. This work was included in a research paper accepted into AlCoB 2021 (doi.org/10.1007/978-3-030-74432-8_5).
 
