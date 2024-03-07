@@ -87,9 +87,10 @@ Your `_config.yml` file should look something similar to this (I used the *Minim
 You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 
 ## More Resources
-- A useful [reference sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on Markdown syntax rules created by Adam Pritchard.
-- A [guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) on how to add a theme to your GitHub Pages site using Jekyll.
-- A [guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on how to host your website locally on your computer using Jekyll.
+- Markdown [tutorial](https://www.markdowntutorial.com/).
+- [Reference sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on Markdown syntax rules created by Adam Pritchard.
+- [Guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) on how to add a theme to your GitHub Pages site using Jekyll.
+- [Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on how to host your website locally on your computer using Jekyll.
 
 ## Authors
 - Aivee Teodocio, [aivee-teodocio](https://github.com/aivee-teodocio)
@@ -99,11 +100,12 @@ You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 - Katherine Oelsner, [octokatherine](https://github.com/octokatherine) - Created the README Template used in this project
 
 ## FAQs
+
+#### Why are lightweight static websites recommended for hosting documentation?
+Lightweight static websites are websites that don't need server-side processing to work, making them a fast and secure way to host documentation. This type of website is good to use when your main interest is sharing information with others and don't need to incorporate a lot of user interactions, such as simply sharing your resume.
+
 #### Can I use a Jekyll theme not in the list of supported GitHub Pages themes?
 Yes, there are plenty of other Jekyll themes created by others. Once you find one you like, replace `theme: jekyll-theme-name` with `remote_theme: THEME-NAME` in your `_config.yml` file.
-
-#### What is a lightweight static website?
-Lightweight static websites are websites that don't need server-side processing to work, making them a fast and secure way to host documentation. This type of website is good to use when your main interest is sharing information with others and don't need to incorporate a lot of user interactions, such as simply sharing your resume.
 
 #### Why are my new changes not showing on my website?
 Check that all workflows in the *Actions* page in your repository have finished. Workflows completed will have a green checkmark next to them. If you see that a workflow has an orange dot next to it, this means that GitHub is still working on updating your website with your changes.
