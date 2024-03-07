@@ -87,7 +87,7 @@ Your `_config.yml` file should look something similar to this (I used the *Minim
 You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 
 ## More Resources
-- Markdown [tutorial](https://www.markdowntutorial.com/)
+- [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Markdown Reference Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [How to add Jekyll Theme to GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [How to host your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
