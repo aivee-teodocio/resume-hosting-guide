@@ -87,10 +87,10 @@ Your `_config.yml` file should look something similar to this (I used the *Minim
 You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 
 ## More Resources
-- Markdown [tutorial](https://www.markdowntutorial.com/).
-- [Reference sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on Markdown syntax rules created by Adam Pritchard.
-- [Guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) on how to add a theme to your GitHub Pages site using Jekyll.
-- [Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on how to host your website locally on your computer using Jekyll.
+- Markdown [tutorial](https://www.markdowntutorial.com/)
+- [Markdown Reference Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [How to add Jekyll Theme to GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+- [How to host your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 ## Authors
 - Aivee Teodocio, [aivee-teodocio](https://github.com/aivee-teodocio)
@@ -104,17 +104,5 @@ You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 #### Why are lightweight static websites recommended for hosting documentation?
 Lightweight static websites are websites that don't need server-side processing to work, making them a fast and secure way to host documentation. This type of website is good to use when your main interest is sharing information with others and don't need to incorporate a lot of user interactions, such as simply sharing your resume.
 
-#### Can I use a Jekyll theme not in the list of supported GitHub Pages themes?
-Yes, there are plenty of other Jekyll themes created by others. Once you find one you like, replace `theme: jekyll-theme-name` with `remote_theme: THEME-NAME` in your `_config.yml` file.
-
 #### Why are my new changes not showing on my website?
 Check that all workflows in the *Actions* page in your repository have finished. Workflows completed will have a green checkmark next to them. If you see that a workflow has an orange dot next to it, this means that GitHub is still working on updating your website with your changes.
-
-#### Why do I get a 404 page when I try to go to my website?
-Make sure that you're entering `https://[your-github-username].github.io` correctly into your browser. If the issue persists, check that GitHub Pages was set up correctly in your repository's settings. Refer back to the [Set up GitHub Pages](https://github.com/aivee-teodocio/aivee-teodocio.github.io?tab=readme-ov-file#set-up-github-pages) instructions above for guidance.
-
-#### Why is the content of my README file showing instead of my resume on my website?
-Make sure that you have the markdown file with your resume content stored as `index.md` in your repository. If an `index.md` or `index.html` file is not provided, GitHub Pages will display the content in `README.md` by default.
-
-#### Can I work on my website locally instead of using GitHub and GitHub Pages?
-Yes, you can follow this [guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) on how to build your site locally. I suggest using an IDE like [Visual Studio Code](https://code.visualstudio.com/) to easily view, create, and update your files.
