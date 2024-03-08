@@ -1,6 +1,6 @@
 # How to Create a Static Website for Your Resume
 
-<img src="https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/resume-demo.gif" width='600' height='600'>
+<img src="https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/resume-showcase.gif" width='600' height='600'>
 
 ## Purpose
 This document provides instructions on how to generate a static website using Jekyll and GitHub Pages to display your resume.
