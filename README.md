@@ -94,7 +94,7 @@ You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 - Agape Seo, [gapy04](https://github.com/gapy04) - Helped review this guide
 - Eseosa Ataga, [Marie-Lenora](https://github.com/Marie-Lenora) - Helped review this guide
 - Katherine Oelsner, [octokatherine](https://github.com/octokatherine) - Created the README Template used in this project
-- [Pages-theme](https://github.com/pages-themes/cayman) - Created the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme
+- [Pages-theme](https://github.com/pages-themes) - Created the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme
 
 ## FAQs
 
