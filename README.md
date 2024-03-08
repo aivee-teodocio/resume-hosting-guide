@@ -58,7 +58,7 @@ You have successfully created a simple static website!
 11. Go to your website at `https://[your-github-username].github.io`.
 12. Check that your resume content is now showing instead of the content in your *README* file.
 
-You are now showing your resume on your website! Next, let's apply a theme to make it nicer!
+You are now showing your resume on your website! Next, let's apply a theme to make it look nicer!
 
 ### Applying a Theme Using Jekyll
 1. Go to the list of GitHub supported Jekyll themes [here](https://pages.github.com/themes/).
@@ -84,7 +84,7 @@ You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Markdown Reference Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Introduction to GitHub and Git](https://www.coursera.org/articles/what-is-git)
+- [Introduction to GitHub](https://www.coursera.org/articles/what-is-git)
 - [How to add Jekyll Theme to GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
