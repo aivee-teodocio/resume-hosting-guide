@@ -20,7 +20,7 @@ Together, we will apply these principles by hosting a resume written in Markdown
 ## Instructions
 ### Create a GitHub repository
 1. Log into your GitHub account.
-2. Click on the green button that says *New* on the left-hand side of your GitHub homepage. <img src="https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/screenshots/1.png" width='60'>
+2. Click on the green button that says *New* on the left-hand side of your GitHub homepage. <img src="https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/screenshots/1.png" width='46'>
 3. Enter a repository name with the format `[your-github-username].github.io`. (Ex: *mr-krabs*.github.io)
 4. Enter a short description that describes what the repository is for. This could be as simple as: "*My resume.*"
 5. Keep the visibility of the repository *public*.
@@ -67,7 +67,7 @@ You are now showing your resume on your website! Next, let's apply a theme to ma
 4. In the *README* file, find the *Usage* section.
 5. Under the *Usage* section, click on the symbol circled in red to copy the text. ![](https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/screenshots/7.png)
 6. Go back to your own GitHub repository.
-7. Click on the `+` symbol next to the green *Code* button on the main page of your repository.
+7. Click on the `+` symbol next to the green *Code* button on the main page of your repository. <img src="https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/screenshots/4.png" width='85'>
 8. Select the *Create new file* option. This will redirect you to a page with a text editor.
 9.  Enter `_config.yml` in the box that says `Name your file...` at the top of the text editor. ![](https://github.com/aivee-teodocio/aivee-teodocio.github.io/blob/main/screenshots/8.png)
 10. Paste the text you copied in step 5 into the text box.
@@ -94,7 +94,7 @@ You are now hosting your resume on GitHub pages with a Jekyll theme!👏
 - Agape Seo, [gapy04](https://github.com/gapy04) - Helped review this guide
 - Eseosa Ataga, [Marie-Lenora](https://github.com/Marie-Lenora) - Helped review this guide
 - Katherine Oelsner, [octokatherine](https://github.com/octokatherine) - Created the README Template used in this project
-- [Pages-theme](https://github.com/pages-themes) - Created the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme
+- [Pages-themes](https://github.com/pages-themes) - Created the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme
 
 ## FAQs
 
