@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Resume
-description: Hello, my name is Aivee (pronounced "Ivy"). I'm a computer science co-op student from the University of Manitoba.
+description: Hello, my name is Anita Job. I'm a computer science student from the University of Arstotzka.
